@@ -9,6 +9,7 @@ The Python scripts must be executed in the following order to ensure correct fun
 - Austria.ipynb
 - Denmark.ipynb
 - Switzerland.ipynb
+- 
 For the proper functioning of the code, it is necessary to create a folder named 'csv' containing all the initial CSV files. This folder will also automatically store the CSV files generated during the execution of the scripts, which are needed to propagate information between the different programs.
 
 The following datasets are required to obtain the data needed for Phase 3, along with their respective sources:
