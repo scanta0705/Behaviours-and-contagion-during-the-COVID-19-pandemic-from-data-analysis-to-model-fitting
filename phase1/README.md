@@ -1,4 +1,4 @@
-READ_ME - PHASE 1
+README - PHASE 1
 
 The Python scripts should be run in this order to ensure correct results for phase 1:
 - country.ipynb
