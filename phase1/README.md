@@ -18,6 +18,6 @@ The external data are sometimes retrieved via APIs and sometimes come from exist
 
 All these CSV files must be placed in the csv folder for the scripts to function properly. During the execution of the Python scripts additional CSV files will also be generated and stored in the same folder. From country.ipynb and country-us.ipynb, two external tables will be generated (named Data and Dataus respectively). These contain CSV files with data retrieved via APIs.
 
-Finally, the most important CSV file is FULL_DATA5_final.csv, which contains the data required for Phase 2.
+Finally, the most important CSV file is FULL_DATA5_FINALE.csv, which contains the data required for Phase 2.
 
 The lines responsible for saving the images must be commented out or modified to ensure the proper functioning of the code.
