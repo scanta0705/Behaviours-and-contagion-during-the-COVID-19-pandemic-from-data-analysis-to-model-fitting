@@ -13,9 +13,10 @@ For the proper functioning of the code, it is necessary to create a folder named
 
 The following datasets are required to obtain the data needed for Phase 3, along with their respective sources:
   - cs_long_v1.csv e cd_long_v1.csv https://www.icpsr.umich.edu/web/ICPSR/studies/39206/versions/V3
-  - covid-containment-and-health-index.csv
-  - owid-covid-data.csv
-  - face-covering-policies-covid.csv
+  - covid-containment-and-health-index.csv https://ourworldindata.org/grapher/covid-containment-and-health-index
+  - owid-covid-data.csv https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
+  - face-covering-policies-covid.csv https://ourworldindata.org/grapher/face-covering-policies-covid
 
 Before running the scripts, the code lines responsible for saving figures must be either modified or commented out to ensure the code executes correctly.
-  
+
+The csv folder already contains the dati.csv file obtained after integrating the other files. Therefore, it is possible to run modellazionemanuale.ipynb, Austria.ipynb, Denmark.ipynb, and Switzerland.ipynb directly if desired.
