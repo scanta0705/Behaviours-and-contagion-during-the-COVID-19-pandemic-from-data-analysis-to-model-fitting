@@ -20,4 +20,6 @@ All these CSV files must be placed in the csv folder for the scripts to function
 
 Finally, the most important CSV file is FULL_DATA5_FINALE.csv, which contains the data required for Phase 2.
 
+Note (for country.ipynb): The UMD Global CTIS API is currently inactive. However, it is possible to manually download the data from https://www.icpsr.umich.edu/web/ICPSR/studies/39206/versions/V3  .
+
 The lines responsible for saving the images must be commented out or modified to ensure the proper functioning of the code.
